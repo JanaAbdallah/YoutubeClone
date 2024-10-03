@@ -14,9 +14,8 @@ CSS3: Styling the components, creating a visually appealing layout, and ensuring
 How to Run the Project
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/your-repo/youtube-clone
+
 Open the index.html file in any web browser.
 
 Future Enhancements
