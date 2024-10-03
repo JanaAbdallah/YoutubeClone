@@ -1,5 +1,5 @@
 
-YouTube Clone - HTML & CSS
+## YouTube Clone - HTML & CSS
 Project Overview
 This project is a simple clone of YouTube, built using only HTML and CSS. It aims to replicate the basic layout and design of YouTube, including key elements like the video player, video thumbnails, and video descriptions. While it does not include the functionality of the real platform, it serves as a foundation for further development.
 
